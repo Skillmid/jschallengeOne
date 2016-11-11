@@ -1,4 +1,4 @@
-/* Skillmid Challenge Solution 4*/
+/* Skillmid Challenge Updated Solution 4*/
  module.exports = function (a) 
  {
  	if(a<2) 

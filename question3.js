@@ -1,4 +1,4 @@
-/* Skillmid Challenge Solution 3*/
+/* Skillmid Challenge Updated Solution 3*/
 module.exports = function (num) 
 {
 	var total = 1;

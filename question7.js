@@ -1,3 +1,4 @@
+ /* Skillmid Challenge Updated Solution 7*/
  module.exports = function (a)
   {
   	var text = '';
@@ -7,5 +8,6 @@
     	
     }
     return text;
+
   }
   

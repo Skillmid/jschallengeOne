@@ -1,27 +1,22 @@
- 
- /* Skillmid Challenge Solution 2*/
+/* Skillmid Challenge Updated Solution 2*/
 
  module.exports = function (a) 
  {
-    // ...
+ if (typeof a !='number')
+ {
+	return "Not a number";
+ }
 
-if (typeof a === 'string')
-	{
-	return "Not a number";
-	}
-else if (typeof a === 'boolean')
-	{
-	return "Not a number";
-	}
-else if (a%2==1)
-	{
+else if (a%2 != 0)
+{
 	return "Odd";
 }
-else 
-	{
-	return "Even";
-	}
 
+else 
+
+{
+	return "Even";
+}
 
 
 }
